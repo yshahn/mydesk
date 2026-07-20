@@ -6,7 +6,7 @@ importScripts('https://www.gstatic.com/firebasejs/10.12.2/firebase-messaging-com
 
 // index.html의 firebaseConfig와 동일한 값을 넣어주세요
 firebase.initializeApp({
-  apiKey: "AIzaSyCG59MGXRXNTgzTrSCjsOpzJqWqYm7YFn8",
+  apiKey: "AIzaSyAc9Vv1F1ODTX7358XrSm9FSSfD73rKvn8",
   authDomain: "mydesk-19280.firebaseapp.com",
   projectId: "mydesk-19280",
   storageBucket: "mydesk-19280.firebasestorage.app",
