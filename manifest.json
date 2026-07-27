@@ -1,0 +1,13 @@
+{
+  "name": "MyDesk — 개인 정리함",
+  "short_name": "MyDesk",
+  "start_url": "/mydesk/",
+  "scope": "/mydesk/",
+  "display": "standalone",
+  "background_color": "#0e1524",
+  "theme_color": "#0e1524",
+  "icons": [
+    { "src": "/mydesk/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/mydesk/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
